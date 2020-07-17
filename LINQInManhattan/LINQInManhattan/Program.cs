@@ -54,6 +54,7 @@ namespace LINQInManhattan
                 totalHoods++;
             }
             Console.WriteLine($"Total: {totalHoods}");
+            Console.ReadLine();
         }
 
         /// <summary>
