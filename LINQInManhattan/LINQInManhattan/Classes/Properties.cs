@@ -6,12 +6,12 @@ namespace LINQInManhattan.Classes
 {
     public class Properties
     {
-        public string zip { get; set; }
-        public string city { get; set; }
-        public string state { get; set; }
-        public string address { get; set; }
-        public string borough { get; set; }
-        public string neighborhood { get; set; }
-        public string county { get; set; }
+        public string Zip { get; set; }
+        public string City { get; set; }
+        public string State { get; set; }
+        public string Address { get; set; }
+        public string Borough { get; set; }
+        public string Neighborhood { get; set; }
+        public string County { get; set; }
     }
 }

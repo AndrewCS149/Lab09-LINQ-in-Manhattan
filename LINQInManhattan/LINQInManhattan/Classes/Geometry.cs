@@ -6,7 +6,7 @@ namespace LINQInManhattan.Classes
 {
     public class Geometry
     {
-        public string type { get; set; }
-        public float[] coordinates { get; set; }
+        public string Type { get; set; }
+        public float[] Coordinates { get; set; }
     }
 }

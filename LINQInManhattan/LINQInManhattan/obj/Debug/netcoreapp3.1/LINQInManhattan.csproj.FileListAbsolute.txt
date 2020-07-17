@@ -2,3 +2,14 @@ C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LIN
 C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.csprojAssemblyReference.cache
 C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.AssemblyInfoInputs.cache
 C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.AssemblyInfo.cs
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.deps.json
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.runtimeconfig.json
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.runtimeconfig.dev.json
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.dll
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.pdb
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.csproj.CopyComplete
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.dll
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.pdb
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.genruntimeconfig.cache
