@@ -1,0 +1,4 @@
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.exe
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\code\codeFellows\code401\labs\Lab09-LINQ-in-Manhattan\LINQInManhattan\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.AssemblyInfo.cs

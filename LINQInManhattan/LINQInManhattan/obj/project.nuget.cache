@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "blkZpLiRfmbOv/0AQAjF+olr0IYjGUbCbXV3z6HiRRCjgqY4nZfyu/XCEv4lJQAkS/mXBYj46aKuiQYxwHtscA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\Desktop\\code\\codeFellows\\code401\\labs\\Lab09-LINQ-in-Manhattan\\LINQInManhattan\\LINQInManhattan\\LINQInManhattan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
