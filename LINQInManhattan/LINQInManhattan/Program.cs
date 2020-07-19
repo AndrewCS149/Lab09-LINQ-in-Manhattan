@@ -15,7 +15,7 @@ namespace LINQInManhattan
     {
         static void Main(string[] args)
         {
-            string path = "C:\\Users\\andre\\Desktop\\code\\codeFellows\\code401\\labs\\Lab09-LINQ-in-Manhattan\\LINQInManhattan\\data.json";
+            string path = "..\\..\\..\\data.json";
 
             Rootobject rootObj = ReadAll(path);
             Feature[] features = rootObj.Features;

@@ -55,6 +55,7 @@ Console Output:
 ---
 
 ### Change Log
+- 1.4 Change absolute path to relative path - 18 July 2020
 - 1.3 Application Complete - 16 July 2020
 - 1.2 PrintQuery() - 16 July 2020
 - 1.1 GenerateGeometry() - 16 July 2020
